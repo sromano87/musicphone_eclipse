@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+	<events artist="Billy Talent" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="5">
+		<event>
+			<id>1000001</id>
+			<title>Billy Talent</title>
+			<artists>
+				<artist>Billy Talent</artist>
+				<headliner>Billy Talent</headliner>
+			</artists>
+			<venue>
+				<name>Rock am Ring</name>
+				<location>
+					<city>Nürburg</city>
+					<country>Germany</country>
+					<street></street>
+					<postalcode></postalcode>
+					<point>
+						<lat>50.334</lat>
+						<long>6.947</long>
+					</point>
+					<timezone>CET</timezone>
+				</location>
+				<url>http://www.last.fm/venue/1000001</url>
+			</venue>
+			<startDate>Sat, 06 Jun 2009</startDate>
+			<startTime>21:00</startTime>
+			<description></description>
+			<image size="small">http://example.com/small.jpg</image>
+			<image size="medium">http://example.com/medium.jpg</image>
+			<image size="large">http://example.com/large.jpg</image>
+			<attendance>5000</attendance>
+			<reviews>12</reviews>
+			<tag>lastfm:event=1000001</tag>
+			<url>http://www.last.fm/event/1000001</url>
+		</event>
+		<event>
+			<id>1000002</id>
+			<title>Billy Talent</title>
+			<artists>
+				<artist>Billy Talent</artist>
+				<headliner>Billy Talent</headliner>
+			</artists>
+			<venue>
+				<name>Brixton Academy</name>
+				<location>
+					<city>London</city>
+					<country>UK</country>
+					<street>211 Stockwell Road</street>
+					<postalcode>SW9 9SL</postalcode>
+					<point>
+						<lat>51.465</lat>
+						<long>-0.114</long>
+					</point>
+					<timezone>GMT</timezone>
+				</location>
+				<url>http://www.last.fm/venue/1000002</url>
+			</venue>
+			<startDate>Sat, 20 Jun 2009</startDate>
+			<startTime>20:00</startTime>
+			<description></description>
+			<image size="small">http://example.com/small.jpg</image>
+			<image size="medium">http://example.com/medium.jpg</image>
+			<image size="large">http://example.com/large.jpg</image>
+			<attendance>3500</attendance>
+			<reviews>8</reviews>
+			<tag>lastfm:event=1000002</tag>
+			<url>http://www.last.fm/event/1000002</url>
+		</event>
+	</events>
+</lfm>

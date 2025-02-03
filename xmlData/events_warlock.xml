@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+	<events artist="Warlock" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="5">
+		<event>
+			<id>3000001</id>
+			<title>Warlock Live</title>
+			<artists>
+				<artist>Warlock</artist>
+				<headliner>Warlock</headliner>
+			</artists>
+			<venue>
+				<name>Wacken Open Air</name>
+				<location>
+					<city>Wacken</city>
+					<country>Germany</country>
+					<street></street>
+					<postalcode></postalcode>
+					<point>
+						<lat>54.022</lat>
+						<long>9.375</long>
+					</point>
+					<timezone>CET</timezone>
+				</location>
+				<url>http://www.last.fm/venue/3000001</url>
+			</venue>
+			<startDate>Fri, 31 Jul 2009</startDate>
+			<startTime>22:00</startTime>
+			<description></description>
+			<image size="small">http://example.com/warlock_small.jpg</image>
+			<image size="medium">http://example.com/warlock_medium.jpg</image>
+			<image size="large">http://example.com/warlock_large.jpg</image>
+			<attendance>10000</attendance>
+			<reviews>30</reviews>
+			<tag>lastfm:event=3000001</tag>
+			<url>http://www.last.fm/event/3000001</url>
+		</event>
+		<event>
+			<id>3000002</id>
+			<title>Warlock Live</title>
+			<artists>
+				<artist>Warlock</artist>
+				<headliner>Warlock</headliner>
+			</artists>
+			<venue>
+				<name>Hellfest</name>
+				<location>
+					<city>Clisson</city>
+					<country>France</country>
+					<street></street>
+					<postalcode></postalcode>
+					<point>
+						<lat>47.091</lat>
+						<long>-1.278</long>
+					</point>
+					<timezone>CET</timezone>
+				</location>
+				<url>http://www.last.fm/venue/3000002</url>
+			</venue>
+			<startDate>Sat, 20 Jun 2009</startDate>
+			<startTime>21:30</startTime>
+			<description></description>
+			<image size="small">http://example.com/warlock_small.jpg</image>
+			<image size="medium">http://example.com/warlock_medium.jpg</image>
+			<image size="large">http://example.com/warlock_large.jpg</image>
+			<attendance>8000</attendance>
+			<reviews>25</reviews>
+			<tag>lastfm:event=3000002</tag>
+			<url>http://www.last.fm/event/3000002</url>
+		</event>
+	</events>
+</lfm>

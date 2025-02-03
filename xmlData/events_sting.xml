@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+	<events artist="Sting" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="5">
+		<event>
+			<id>2000001</id>
+			<title>Sting Live</title>
+			<artists>
+				<artist>Sting</artist>
+				<headliner>Sting</headliner>
+			</artists>
+			<venue>
+				<name>Royal Albert Hall</name>
+				<location>
+					<city>London</city>
+					<country>UK</country>
+					<street>Kensington Gore</street>
+					<postalcode>SW7 2AP</postalcode>
+					<point>
+						<lat>51.501</lat>
+						<long>-0.177</long>
+					</point>
+					<timezone>GMT</timezone>
+				</location>
+				<url>http://www.last.fm/venue/2000001</url>
+			</venue>
+			<startDate>Fri, 10 Jul 2009</startDate>
+			<startTime>19:30</startTime>
+			<description></description>
+			<image size="small">http://example.com/sting_small.jpg</image>
+			<image size="medium">http://example.com/sting_medium.jpg</image>
+			<image size="large">http://example.com/sting_large.jpg</image>
+			<attendance>4500</attendance>
+			<reviews>15</reviews>
+			<tag>lastfm:event=2000001</tag>
+			<url>http://www.last.fm/event/2000001</url>
+		</event>
+		<event>
+			<id>2000002</id>
+			<title>Sting Live</title>
+			<artists>
+				<artist>Sting</artist>
+				<headliner>Sting</headliner>
+			</artists>
+			<venue>
+				<name>Madison Square Garden</name>
+				<location>
+					<city>New York</city>
+					<country>USA</country>
+					<street>4 Pennsylvania Plaza</street>
+					<postalcode>10001</postalcode>
+					<point>
+						<lat>40.7505</lat>
+						<long>-73.9934</long>
+					</point>
+					<timezone>EST</timezone>
+				</location>
+				<url>http://www.last.fm/venue/2000002</url>
+			</venue>
+			<startDate>Wed, 22 Jul 2009</startDate>
+			<startTime>20:00</startTime>
+			<description></description>
+			<image size="small">http://example.com/sting_small.jpg</image>
+			<image size="medium">http://example.com/sting_medium.jpg</image>
+			<image size="large">http://example.com/sting_large.jpg</image>
+			<attendance>7000</attendance>
+			<reviews>20</reviews>
+			<tag>lastfm:event=2000002</tag>
+			<url>http://www.last.fm/event/2000002</url>
+		</event>
+	</events>
+</lfm>
